@@ -8,12 +8,8 @@ A ROS 2 Humble simulation project for the **Franka Emika Panda** that detects **
 
 ## Demo
 
-Add your demo here:
-
 Example:
-
-![Demo](media/demo.gif)
-
+<img src="media/demo.mp4" style="width:100%; height:auto;">
 ---
 
 ## Features

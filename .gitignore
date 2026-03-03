@@ -23,3 +23,10 @@ Thumbs.db
 
 # Misc
 *.swp
+yt/*.mp4
+
+# Large local videos/gifs
+yt/
+
+# Large demo artifacts
+yt/
