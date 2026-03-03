@@ -10,7 +10,7 @@ A ROS 2 Humble simulation project for the **Franka Emika Panda** that detects **
 
 Example:
 
-[![Demo video](media/demo_thumb.png)](media/demo.mp4)
+[▶️ Download / Watch demo.mp4](media/demo.mp4)
 
 ---
 
